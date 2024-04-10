@@ -12,7 +12,7 @@ function App() {
       {/*Random Color Component */}
       <RandomColor />
       {/* Star Rating Component*/}
-      <StarRating noOfStars={5} />
+      <StarRating noOfStars={10} />
       {/* Image Slider Component */}
       <ImageSlider 
       url={"https:picsum.photos/v2/list"} 
